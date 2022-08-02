@@ -1,0 +1,8 @@
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\bin\Debug\ProjetoClasse.exe.config
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\bin\Debug\ProjetoClasse.exe
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\bin\Debug\ProjetoClasse.pdb
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\obj\Debug\ProjetoClasse.exe
+C:\Users\2jdmtec\Desktop\Pasta LR\ProjetoClasse\ProjetoClasse\obj\Debug\ProjetoClasse.pdb
