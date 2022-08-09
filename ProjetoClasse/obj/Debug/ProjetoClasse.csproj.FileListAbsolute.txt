@@ -21,3 +21,11 @@ C:\Users\RANIERDALTONDOCOUTO\Documents\ProjetoClasse-main\ProjetoClasse\obj\Debu
 C:\Users\RANIERDALTONDOCOUTO\Documents\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.CoreCompileInputs.cache
 C:\Users\RANIERDALTONDOCOUTO\Documents\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.exe
 C:\Users\RANIERDALTONDOCOUTO\Documents\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.pdb
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\bin\Debug\ProjetoClasse.exe.config
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\bin\Debug\ProjetoClasse.exe
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\bin\Debug\ProjetoClasse.pdb
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.exe
+C:\Users\2jdmtec\Desktop\Lucas Yuji e Ranier\ProjetoClasse-main\ProjetoClasse\obj\Debug\ProjetoClasse.pdb

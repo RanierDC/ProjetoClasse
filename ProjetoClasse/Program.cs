@@ -31,6 +31,7 @@ namespace ProjetoClasse
             Pessoa pessoa = new Pessoa(n, i, a, s, m);
             Console.WriteLine("\n\n *** Dados da Pessoa *** \n\n");
             Console.WriteLine(pessoa.ToString());
+            Console.WriteLine("O Peso ideal de {0} é: {1}.", n, pessoa.calcularPesoIdeal());
 
             Console.WriteLine("O IMC de {0} é: {1}.", n, pessoa.calcularIMC() );
 
