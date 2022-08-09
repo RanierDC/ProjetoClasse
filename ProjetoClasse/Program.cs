@@ -28,11 +28,50 @@ namespace ProjetoClasse
             Console.WriteLine("Digite a massa atual de {0} em KG: ", n);
             double m = double.Parse(Console.ReadLine());
 
-            Pessoa pessoa = new Pessoa(n, i, a, s, m, c);
+            Pessoa pessoa = new Pessoa(n, i, a, s, m);
             Console.WriteLine("\n\n *** Dados da Pessoa *** \n\n");
             Console.WriteLine(pessoa.ToString());
-            Console.WriteLine("O IMC de {0} é: {1}, que é considerado {2}.", n, pessoa.calcularIMC() );
 
+            Console.WriteLine("O IMC de {0} é: {1}.", n, pessoa.calcularIMC() );
+
+            double imc;
+            string msg = null;
+            imc = ( m / (a * a));
+
+            if (imc < 16)
+            {
+                msg += "Magreza severa";
+            }
+            else if (imc < 17)
+            {
+                msg += "Magreza moderada";
+            }
+            else if (imc < 18.5)
+            {
+                msg += "Magreza leve";
+            }
+            else if (imc < 25)
+            {
+                msg += "Peso normal";
+            }
+            else if (imc < 30)
+            {
+                msg += "Acima do peso";
+            }
+            else if (imc < 35)
+            {
+                msg += "Obesidad Grau 1";
+            }
+            else if (imc < 40)
+            {
+                msg += "Obesidade Grau 2";
+            }
+            else
+            {
+                msg += "Obesidade Grau 3";
+            }
+
+            Console.WriteLine(msg);
 
             Console.ReadKey();
         }
